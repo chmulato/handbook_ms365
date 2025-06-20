@@ -18,18 +18,16 @@
 ## Controle de Versões (ROADMAP)
 
 ```markdown
-|--------|---------------|------------------------------------------------------------------|
-| Versão | Data          | Descrição das Alterações                                         |
-|--------|---------------|------------------------------------------------------------------|
-| 1.0    | 20/06/2025    | Criação inicial                                                  |
-| 1.1    | 17/11/2025    | Atualização de conteúdo e formatação                             |
-| 1.2    | 15/01/2026    | Inclusão de novos módulos e revisão geral                        |
-| 1.3    | 10/03/2026    | Adição de seções sobre segurança e privacidade                   |
-| 1.4    | 05/05/2026    | Atualização de links e referências, melhorias de formatação      |
-| 1.5    | 01/07/2026    | Inclusão de novos recursos do Microsoft 365 e revisão geral      |
-| 1.6    | 15/09/2026    | Atualização de módulos e inclusão de novas práticas recomendadas |
-| 1.7    | 10/11/2026    | Revisão de conteúdo e adição de novos links úteis                |
-|--------|---------------|------------------------------------------------------------------|
+|--------|------------|---------------------------------------------------------|
+| Versão | Data       | Descrição das Alterações                                |
+|--------|------------|---------------------------------------------------------|
+| 1.0    | 20/06/2025 | Criação inicial                                         |
+| 1.1    | 20/12/2025 | Revisão semestral: atualização de conteúdo e links      |
+| 1.2    | 20/06/2026 | Inclusão de novos módulos e revisão geral               |
+| 1.3    | 20/12/2026 | Atualização de práticas recomendadas e recursos novos   |
+| 1.4    | 20/06/2027 | Revisão de segurança, privacidade e anexos              |
+| 1.5    | 20/12/2027 | Atualização de imagens, exemplos e roadmap              |
+|--------|------------|---------------------------------------------------------|
 ```
 
 ***
@@ -318,6 +316,8 @@ O Power BI é a ferramenta de análise e visualização de dados da Microsoft, p
 ### 3.7 Segurança, Privacidade e Administração
 
 A segurança, privacidade e administração são pilares fundamentais no Microsoft 365, garantindo proteção de dados, conformidade com normas e gestão eficiente dos recursos da organização.
+
+![Security](images/SECURITY.png)
 
 **Proteção de dados e compliance**
 O Microsoft 365 oferece recursos avançados para proteger informações sensíveis e atender a requisitos legais e regulatórios (LGPD, GDPR, etc.).
