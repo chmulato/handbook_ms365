@@ -276,10 +276,34 @@ O SharePoint permite criar portais, intranets, bibliotecas de documentos e área
 
 ### 3.6 Power Platform (Power Automate, Power Apps e Power BI)
 
-- Visão geral  
-- Automatização de processos (Power Automate)  
-- Criação de aplicativos (Power Apps)  
-- Visualização de dados (Power BI)  
+A Power Platform é um conjunto de ferramentas do Microsoft 365 que permite automatizar processos, criar aplicativos personalizados e analisar dados de forma intuitiva, sem necessidade de conhecimentos avançados em programação. Ela é composta por três principais soluções: Power Automate, Power Apps e Power BI.
+
+**Visão geral**  
+A Power Platform integra-se aos demais serviços do Microsoft 365, facilitando a transformação digital nas organizações. Com ela, é possível automatizar tarefas repetitivas, criar soluções sob medida para necessidades específicas e obter insights a partir de dados, tudo de forma visual e acessível.
+
+**Automatização de processos (Power Automate)**  
+O Power Automate (antigo Microsoft Flow) permite criar fluxos de trabalho automáticos entre aplicativos e serviços, reduzindo tarefas manuais e aumentando a produtividade.
+
+- Automatize notificações, aprovações, movimentação de arquivos e integração entre sistemas.
+- Utilize modelos prontos ou crie fluxos personalizados com base em gatilhos e ações.
+- Exemplo: Receber um alerta no Teams sempre que um novo arquivo for adicionado a uma pasta do OneDrive.
+
+**Criação de aplicativos (Power Apps)**  
+O Power Apps possibilita criar aplicativos personalizados para web e dispositivos móveis, sem necessidade de programação tradicional.
+
+- Desenvolva soluções para coleta de dados, formulários, controle de inventário, registro de visitas, entre outros.
+- Os aplicativos podem ser integrados ao SharePoint, Teams, Excel e outros serviços do Microsoft 365.
+- Interface intuitiva com recursos de arrastar e soltar, facilitando a criação por usuários de negócio.
+
+**Visualização de dados (Power BI)**  
+O Power BI é a ferramenta de análise e visualização de dados da Microsoft, permitindo criar dashboards interativos e relatórios dinâmicos.
+
+- Conecte-se a diversas fontes de dados, como Excel, SharePoint, bancos de dados e serviços em nuvem.
+- Crie gráficos, tabelas e indicadores para acompanhar métricas e tomar decisões baseadas em dados.
+- Compartilhe relatórios com a equipe pelo Teams, SharePoint ou publicando na web.
+
+> **Dica:**  
+> Explore a Power Platform para automatizar rotinas, criar soluções sob medida e transformar dados em informações valiosas, potencializando o uso do Microsoft 365 em sua organização.
 
 ***
 
