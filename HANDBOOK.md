@@ -8,14 +8,14 @@
 **E-mail:** suporte (at) caracore (dot) com (dot) br
 **Whatsapp:** +55 41 99909-7797
 
-**Site:** [www.caracore.com.br](https://www.caracore.com.br)
-**GitHub:** [github.com/chmulato/cara-core](https://github.com/chmulato/cara-core)
-**Facebook:** [facebook.com/caracoreinformatica](https://www.facebook.com/caracoreinformatica/)
-**LinkedIn:** [linkedin.com/company/cara-core](https://www.linkedin.com/company/cara-core)
+- **Site:** [www.caracore.com.br](https://www.caracore.com.br)
+- **GitHub:** [github.com/chmulato/cara-core](https://github.com/chmulato/cara-core)
+- **Facebook:** [facebook.com/caracoreinformatica](https://www.facebook.com/caracoreinformatica/)
+- **LinkedIn:** [linkedin.com/company/cara-core](https://www.linkedin.com/company/cara-core)
 
 ***
 
-## 🗓️ Controle de Versões (ROADMAP)
+## Controle de Versões (ROADMAP)
 
 ```markdown
 |--------|---------------|------------------------------------------------------------------|
@@ -37,7 +37,7 @@
 ## Sumário
 
 - [Apostila Microsoft 365](#apostila-microsoft-365)
-  - [🗓️ Controle de Versões (ROADMAP)](#️-controle-de-versões-roadmap)
+  - [Controle de Versões (ROADMAP)](#controle-de-versões-roadmap)
   - [Sumário](#sumário)
   - [1. Apresentação](#1-apresentação)
   - [2. Introdução ao Microsoft 365](#2-introdução-ao-microsoft-365)
@@ -252,6 +252,8 @@ O SharePoint é a plataforma de colaboração e gestão de conteúdo do Microsof
 
 **O que é o SharePoint**  
 O SharePoint permite criar portais, intranets, bibliotecas de documentos e áreas de colaboração para equipes, departamentos ou projetos. Ele centraliza informações, facilita o acesso a arquivos e integra-se com outros serviços do Microsoft 365, como Teams e OneDrive.
+
+![SharePoint](images/SHAREPOINT.png)
 
 **Criação de sites e bibliotecas**  
 
