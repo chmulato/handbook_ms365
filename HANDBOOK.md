@@ -15,27 +15,9 @@
 
 ***
 
-## Controle de Versões (ROADMAP) {#controle-de-versoes-roadmap}
-
-```markdown
-|--------|------------|---------------------------------------------------------|
-| Versão | Data       | Descrição das Alterações                                |
-|--------|------------|---------------------------------------------------------|
-| 1.0    | 20/06/2025 | Criação inicial                                         |
-| 1.1    | 20/12/2025 | Revisão semestral: atualização de conteúdo e links      |
-| 1.2    | 20/06/2026 | Inclusão de novos módulos e revisão geral               |
-| 1.3    | 20/12/2026 | Atualização de práticas recomendadas e recursos novos   |
-| 1.4    | 20/06/2027 | Revisão de segurança, privacidade e anexos              |
-| 1.5    | 20/12/2027 | Atualização de imagens, exemplos e roadmap              |
-|--------|------------|---------------------------------------------------------|
-```
-
-***
-
 ## Sumário {#sumario}
 
 - [Apostila Microsoft 365 {#apostila-microsoft-365}](#apostila-microsoft-365-apostila-microsoft-365)
-  - [Controle de Versões (ROADMAP) {#controle-de-versoes-roadmap}](#controle-de-versões-roadmap-controle-de-versoes-roadmap)
   - [Sumário {#sumario}](#sumário-sumario)
   - [1. Apresentação {#1-apresentacao}](#1-apresentação-1-apresentacao)
   - [2. Introdução ao Microsoft 365 {#2-introducao-ao-microsoft-365}](#2-introdução-ao-microsoft-365-2-introducao-ao-microsoft-365)
