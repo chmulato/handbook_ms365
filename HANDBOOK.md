@@ -1,4 +1,4 @@
-# Apostila Microsoft 365 {#apostila-microsoft-365}
+# Apostila Microsoft 365
 
 ![Capa da Apostila](images/COVER.png)
 
@@ -15,33 +15,51 @@
 
 ***
 
-## Sumário {#sumario}
+## Controle de Versões (ROADMAP)
 
-- [Apostila Microsoft 365 {#apostila-microsoft-365}](#apostila-microsoft-365-apostila-microsoft-365)
-  - [Sumário {#sumario}](#sumário-sumario)
-  - [1. Apresentação {#1-apresentacao}](#1-apresentação-1-apresentacao)
-  - [2. Introdução ao Microsoft 365 {#2-introducao-ao-microsoft-365}](#2-introdução-ao-microsoft-365-2-introducao-ao-microsoft-365)
-    - [Definição do Microsoft 365 (antigo Office 365) {#definicao-do-microsoft-365-antigo-office-365}](#definição-do-microsoft-365-antigo-office-365-definicao-do-microsoft-365-antigo-office-365)
-    - [Benefícios Principais {#beneficios-principais}](#benefícios-principais-beneficios-principais)
-  - [3. Módulos dos Serviços {#3-modulos-dos-servicos}](#3-módulos-dos-serviços-3-modulos-dos-servicos)
-    - [3.1 Outlook Online {#31-outlook-online}](#31-outlook-online-31-outlook-online)
-    - [3.2 OneDrive {#32-onedrive}](#32-onedrive-32-onedrive)
-    - [3.3 Word, Excel e PowerPoint Online {#33-word-excel-e-powerpoint-online}](#33-word-excel-e-powerpoint-online-33-word-excel-e-powerpoint-online)
-    - [3.4 Microsoft Teams {#34-microsoft-teams}](#34-microsoft-teams-34-microsoft-teams)
-    - [3.5 SharePoint {#35-sharepoint}](#35-sharepoint-35-sharepoint)
-    - [3.6 Power Platform (Power Automate, Power Apps e Power BI) {#36-power-platform-power-automate-power-apps-e-power-bi}](#36-power-platform-power-automate-power-apps-e-power-bi-36-power-platform-power-automate-power-apps-e-power-bi)
-    - [3.7 Segurança, Privacidade e Administração {#37-seguranca-privacidade-e-administracao}](#37-segurança-privacidade-e-administração-37-seguranca-privacidade-e-administracao)
-  - [4. Boas Práticas e Produtividade {#4-boas-praticas-e-produtividade}](#4-boas-práticas-e-produtividade-4-boas-praticas-e-produtividade)
-  - [5. Novidades e Atualizações {#5-novidades-e-atualizacoes}](#5-novidades-e-atualizações-5-novidades-e-atualizacoes)
-  - [6. Referências e Links Úteis {#6-referencias-e-links-uteis}](#6-referências-e-links-úteis-6-referencias-e-links-uteis)
-  - [7. Anexos {#7-anexos}](#7-anexos-7-anexos)
-  - [Conclusão {#conclusao}](#conclusão-conclusao)
-  - [Fale Conosco {#fale-conosco}](#fale-conosco-fale-conosco)
-  - [Agradecimentos {#agradecimentos}](#agradecimentos-agradecimentos)
+```markdown
+|--------|------------|---------------------------------------------------------|
+| Versão | Data       | Descrição das Alterações                                |
+|--------|------------|---------------------------------------------------------|
+| 1.0    | 20/06/2025 | Criação inicial                                         |
+| 1.1    | 20/12/2025 | Revisão semestral: atualização de conteúdo e links      |
+| 1.2    | 20/06/2026 | Inclusão de novos módulos e revisão geral               |
+| 1.3    | 20/12/2026 | Atualização de práticas recomendadas e recursos novos   |
+| 1.4    | 20/06/2027 | Revisão de segurança, privacidade e anexos              |
+| 1.5    | 20/12/2027 | Atualização de imagens, exemplos e roadmap              |
+|--------|------------|---------------------------------------------------------|
+```
 
 ***
 
-## 1. Apresentação {#1-apresentacao}
+## Sumário
+
+- [Apostila Microsoft 365](#apostila-microsoft-365)
+  - [Controle de Versões (ROADMAP)](#controle-de-versões-roadmap)
+  - [Sumário](#sumário)
+  - [1. Apresentação](#1-apresentação)
+  - [2. Introdução ao Microsoft 365](#2-introdução-ao-microsoft-365)
+    - [Definição do Microsoft 365 (antigo Office 365)](#definição-do-microsoft-365-antigo-office-365)
+    - [Benefícios Principais](#benefícios-principais)
+  - [3. Módulos dos Serviços](#3-módulos-dos-serviços)
+    - [3.1 Outlook Online](#31-outlook-online)
+    - [3.2 OneDrive](#32-onedrive)
+    - [3.3 Word, Excel e PowerPoint Online](#33-word-excel-e-powerpoint-online)
+    - [3.4 Microsoft Teams](#34-microsoft-teams)
+    - [3.5 SharePoint](#35-sharepoint)
+    - [3.6 Power Platform (Power Automate, Power Apps e Power BI)](#36-power-platform-power-automate-power-apps-e-power-bi)
+    - [3.7 Segurança, Privacidade e Administração](#37-segurança-privacidade-e-administração)
+  - [4. Boas Práticas e Produtividade](#4-boas-práticas-e-produtividade)
+  - [5. Novidades e Atualizações](#5-novidades-e-atualizações)
+  - [6. Referências e Links Úteis](#6-referências-e-links-úteis)
+  - [7. Anexos](#7-anexos)
+  - [Conclusão](#conclusão)
+  - [Fale Conosco](#fale-conosco)
+  - [Agradecimentos](#agradecimentos)
+
+***
+
+## 1. Apresentação
 
 **Cara Core Informática** é uma empresa especializada em soluções de tecnologia, com foco em capacitação e suporte técnico.  
 Esta apostila faz parte de nossa iniciativa de oferecer materiais educativos e práticos para usuários do Microsoft 365, facilitando o aprendizado e a utilização dos serviços da plataforma.
@@ -55,19 +73,19 @@ Para garantir acesso à versão mais recente, consulte sempre o site da Cara Cor
 Em caso de dúvidas, sugestões ou suporte, entre em contato pelo e-mail: suporte (at) caracore (dot) com (dot) br, ou pelo Whatsapp: +55 41 99909-7797.
 
 ***
-[Voltar ao Sumário](#sumario)
+[Voltar ao Sumário](#sumário)
 
-## 2. Introdução ao Microsoft 365 {#2-introducao-ao-microsoft-365}
+## 2. Introdução ao Microsoft 365
 
 O Microsoft 365 é uma solução moderna que reúne aplicativos, serviços e recursos em nuvem para facilitar o trabalho, a colaboração e a comunicação em ambientes profissionais e pessoais. Neste capítulo, você vai entender o que é o Microsoft 365, seus principais benefícios e como ele pode transformar a rotina de empresas e usuários individuais.
 
-### Definição do Microsoft 365 (antigo Office 365) {#definicao-do-microsoft-365-antigo-office-365}
+### Definição do Microsoft 365 (antigo Office 365)
 
 O Microsoft 365 é uma plataforma de produtividade baseada em nuvem desenvolvida pela Microsoft, que reúne um conjunto de aplicativos e serviços integrados para facilitar o trabalho, a colaboração e a comunicação em ambientes profissionais e pessoais.  
 A solução inclui ferramentas como Outlook, Word, Excel, PowerPoint, OneDrive, Teams, SharePoint, entre outros, permitindo acesso seguro a arquivos, e-mails e recursos de qualquer lugar e dispositivo conectado à internet.  
 Além dos aplicativos tradicionais, o Microsoft 365 oferece recursos avançados de segurança, gerenciamento e automação, tornando-se uma solução completa para empresas de todos os portes e para usuários individuais.
 
-### Benefícios Principais {#beneficios-principais}
+### Benefícios Principais
 
 O Microsoft 365 oferece uma série de benefícios que tornam o trabalho mais produtivo, colaborativo e seguro, tanto para empresas quanto para usuários individuais. A seguir, destacamos os principais diferenciais da plataforma:
 
@@ -86,14 +104,14 @@ O Microsoft 365 oferece uma série de benefícios que tornam o trabalho mais pro
 Em resumo, o Microsoft 365 proporciona um ambiente moderno, seguro e integrado, que potencializa a produtividade e a colaboração, atendendo tanto às necessidades de usuários individuais quanto às demandas de empresas de todos os tamanhos.
 
 ***
-[Voltar ao Sumário](#sumario)
+[Voltar ao Sumário](#sumário)
 
-## 3. Módulos dos Serviços {#3-modulos-dos-servicos}
+## 3. Módulos dos Serviços
 
 O Microsoft 365 é composto por diversos serviços e aplicativos que atendem a diferentes necessidades de produtividade, colaboração e gestão de informações.  
 Nesta seção, apresentamos os principais módulos da plataforma, detalhando suas funcionalidades, formas de acesso e dicas de uso para que você aproveite ao máximo cada recurso.
 
-### 3.1 Outlook Online {#31-outlook-online}
+### 3.1 Outlook Online
 
 O Outlook Online é o serviço de e-mail, calendário e contatos do Microsoft 365, acessível diretamente pelo navegador. Ele permite gerenciar mensagens, compromissos e informações de contato de forma prática, integrada e segura, tanto para uso profissional quanto pessoal.
 
@@ -124,9 +142,9 @@ O Outlook Online é o serviço de e-mail, calendário e contatos do Microsoft 36
 O Outlook Online recebe atualizações frequentes, incluindo melhorias na integração com Teams, busca aprimorada e novas opções de automação para facilitar o dia a dia.
 
 ***
-[Voltar ao Sumário](#sumario)
+[Voltar ao Sumário](#sumário)
 
-### 3.2 OneDrive {#32-onedrive}
+### 3.2 OneDrive
 
 O OneDrive é o serviço de armazenamento em nuvem do Microsoft 365, projetado para guardar, acessar e compartilhar arquivos de forma segura e prática, tanto no ambiente profissional quanto pessoal. Com ele, seus documentos, fotos e outros arquivos ficam disponíveis em qualquer dispositivo conectado à internet.
 
@@ -156,9 +174,9 @@ O OneDrive é o serviço de armazenamento em nuvem do Microsoft 365, projetado p
 Utilize o OneDrive para centralizar seus arquivos importantes e facilitar o compartilhamento seguro com sua equipe ou clientes, mantendo sempre uma cópia de segurança na nuvem. 
 
 ***
-[Voltar ao Sumário](#sumario)
+[Voltar ao Sumário](#sumário)
 
-### 3.3 Word, Excel e PowerPoint Online {#33-word-excel-e-powerpoint-online}
+### 3.3 Word, Excel e PowerPoint Online
 
 O Word, Excel e PowerPoint Online são versões baseadas em nuvem dos aplicativos clássicos de produtividade da Microsoft. Eles permitem criar, editar e compartilhar documentos, planilhas e apresentações diretamente pelo navegador, sem necessidade de instalação.
 
@@ -186,9 +204,9 @@ As versões online possuem recursos essenciais para a maioria das tarefas, mas a
 Aproveite a colaboração em tempo real para projetos em grupo e utilize o OneDrive para manter seus arquivos sempre acessíveis e seguros.  
 
 ***
-[Voltar ao Sumário](#sumario)
+[Voltar ao Sumário](#sumário)
 
-### 3.4 Microsoft Teams {#34-microsoft-teams}
+### 3.4 Microsoft Teams
 
 O Microsoft Teams é a plataforma de comunicação e colaboração do Microsoft 365, projetada para integrar equipes, centralizar conversas, arquivos e ferramentas em um único ambiente digital. A seguir, veja como aproveitar ao máximo seus principais recursos:
 
@@ -230,9 +248,9 @@ O Teams recebe atualizações frequentes, trazendo novos recursos e melhorias de
 > Utilize o Teams como hub central de colaboração, integrando comunicação, arquivos e aplicativos em um só lugar para aumentar a produtividade da equipe.
 
 ***
-[Voltar ao Sumário](#sumario)
+[Voltar ao Sumário](#sumário)
 
-### 3.5 SharePoint {#35-sharepoint}
+### 3.5 SharePoint
 
 O SharePoint é a plataforma de colaboração e gestão de conteúdo do Microsoft 365, utilizada para criar sites, armazenar, organizar e compartilhar documentos, além de facilitar o trabalho em equipe em ambientes corporativos.
 
@@ -267,9 +285,9 @@ O SharePoint permite criar portais, intranets, bibliotecas de documentos e área
 > O SharePoint é ideal para centralizar documentos, criar portais internos e padronizar processos, promovendo colaboração e organização em equipes de todos os tamanhos.
 
 ***
-[Voltar ao Sumário](#sumario)
+[Voltar ao Sumário](#sumário)
 
-### 3.6 Power Platform (Power Automate, Power Apps e Power BI) {#36-power-platform-power-automate-power-apps-e-power-bi}
+### 3.6 Power Platform (Power Automate, Power Apps e Power BI)
 
 A Power Platform é um conjunto de ferramentas do Microsoft 365 que permite automatizar processos, criar aplicativos personalizados e analisar dados de forma intuitiva, sem necessidade de conhecimentos avançados em programação. Ela é composta por três principais soluções: Power Automate, Power Apps e Power BI.
 
@@ -301,9 +319,9 @@ O Power BI é a ferramenta de análise e visualização de dados da Microsoft, p
 > Explore a Power Platform para automatizar rotinas, criar soluções sob medida e transformar dados em informações valiosas, potencializando o uso do Microsoft 365 em sua organização.
 
 ***
-[Voltar ao Sumário](#sumario)
+[Voltar ao Sumário](#sumário)
 
-### 3.7 Segurança, Privacidade e Administração {#37-seguranca-privacidade-e-administracao}
+### 3.7 Segurança, Privacidade e Administração
 
 A segurança, privacidade e administração são pilares fundamentais no Microsoft 365, garantindo proteção de dados, conformidade com normas e gestão eficiente dos recursos da organização.
 
@@ -345,9 +363,9 @@ O Microsoft 365 oferece recursos avançados para proteger informações sensíve
 > Revise periodicamente as configurações de segurança e políticas de compliance para garantir que sua organização esteja protegida e em conformidade com as melhores práticas do mercado.
 
 ***
-[Voltar ao Sumário](#sumario)
+[Voltar ao Sumário](#sumário)
 
-## 4. Boas Práticas e Produtividade {#4-boas-praticas-e-produtividade}
+## 4. Boas Práticas e Produtividade
 
 Adotar boas práticas no uso do Microsoft 365 potencializa a produtividade, facilita a colaboração e garante maior organização no dia a dia. Confira algumas dicas essenciais para aproveitar ao máximo os recursos da plataforma:
 
@@ -366,9 +384,9 @@ Adotar boas práticas no uso do Microsoft 365 potencializa a produtividade, faci
 Adotar essas práticas contribui para um ambiente digital mais produtivo, colaborativo e seguro, otimizando o uso do Microsoft 365 em qualquer contexto profissional ou pessoal.
 
 ***
-[Voltar ao Sumário](#sumario)
+[Voltar ao Sumário](#sumário)
 
-## 5. Novidades e Atualizações {#5-novidades-e-atualizacoes}
+## 5. Novidades e Atualizações
 
 Nesta seção, acompanhe as principais novidades e mudanças recentes no Microsoft 365, garantindo que você e sua equipe estejam sempre atualizados com os recursos mais modernos da plataforma.
 
@@ -401,9 +419,9 @@ O Microsoft 365 recebe atualizações constantes, trazendo melhorias de desempen
 > Consulte regularmente o roadmap e o changelog oficial para planejar treinamentos, adoção de novos recursos e garantir que sua organização aproveite ao máximo as inovações do Microsoft 365.
 
 ***
-[Voltar ao Sumário](#sumario)
+[Voltar ao Sumário](#sumário)
 
-## 6. Referências e Links Úteis {#6-referencias-e-links-uteis}
+## 6. Referências e Links Úteis
 
 - [Microsoft 365 Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap)  
 - [Microsoft Learn](https://learn.microsoft.com/)  
@@ -412,9 +430,9 @@ O Microsoft 365 recebe atualizações constantes, trazendo melhorias de desempen
 - [Canal oficial no YouTube](https://www.youtube.com/@Microsoft365)  
 
 ***
-[Voltar ao Sumário](#sumario)
+[Voltar ao Sumário](#sumário)
 
-## 7. Anexos {#7-anexos}
+## 7. Anexos
 
 Nesta seção, você encontra materiais complementares para facilitar o uso do Microsoft 365 no dia a dia. Utilize estes anexos para agilizar tarefas, padronizar processos e aumentar sua produtividade:
 
@@ -434,17 +452,17 @@ Nesta seção, você encontra materiais complementares para facilitar o uso do M
 > Personalize os anexos conforme a realidade da sua equipe ou empresa para obter ainda mais benefícios do Microsoft 365. Utilize os modelos e checklists como base para criar processos eficientes e adaptados às suas necessidades específicas.
 
 ***
-[Voltar ao Sumário](#sumario)
+[Voltar ao Sumário](#sumário)
 
-## Conclusão {#conclusao}
+## Conclusão
 
 Esta apostila é um guia introdutório para o Microsoft 365, cobrindo os principais serviços e funcionalidades. Para aprofundar seus conhecimentos, recomendamos explorar os links úteis e participar da comunidade Microsoft.
 Acompanhe as atualizações semestrais para se manter informado sobre as novidades e melhorias contínuas da plataforma.
 
 ***
-[Voltar ao Sumário](#sumario)
+[Voltar ao Sumário](#sumário)
 
-## Fale Conosco {#fale-conosco}
+## Fale Conosco
 
 Sua opinião é muito importante para nós!  
 
@@ -457,9 +475,9 @@ Se tiver dúvidas, sugestões, feedbacks ou quiser compartilhar sua experiência
 Estamos à disposição para ajudar você a aproveitar ao máximo o Microsoft 365!
 
 ***
-[Voltar ao Sumário](#sumario)
+[Voltar ao Sumário](#sumário)
 
-## Agradecimentos {#agradecimentos}
+## Agradecimentos
 
 Agradecemos a todos os colaboradores e usuários que contribuíram para a criação desta apostila. Sua participação é fundamental para aprimorarmos continuamente nossos materiais e serviços.
 
