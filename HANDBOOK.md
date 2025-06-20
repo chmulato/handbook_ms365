@@ -480,3 +480,8 @@ Estamos à disposição para ajudar você a aproveitar ao máximo o Microsoft 36
 ## Agradecimentos
 
 Agradecemos a todos os colaboradores e usuários que contribuíram para a criação desta apostila. Sua participação é fundamental para aprimorarmos continuamente nossos materiais e serviços.
+
+***
+
+> **Nota:**  
+> Esta apostila é um material educativo e de apoio ao usuário. A Cara Core Informática não possui vínculo comercial com a Microsoft, nem representa oficialmente a marca ou seus produtos. Todas as marcas, nomes e logotipos Microsoft 365 mencionados pertencem à Microsoft Corporation. Nosso papel é exclusivamente prestar suporte, treinamento e orientação para o melhor uso das soluções Microsoft por nossos clientes e parceiros.
