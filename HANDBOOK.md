@@ -1,5 +1,7 @@
 # Apostila Microsoft 365
 
+![Capa da Apostila](COVER.png)
+
 **Cara Core Informática**  
 **Versão:** v1.0 – 20 de Junho 2025  
 **Autor:** Christian Vladimir Uhdre Mulato  
@@ -309,11 +311,42 @@ O Power BI é a ferramenta de análise e visualização de dados da Microsoft, p
 
 ### 3.7 Segurança, Privacidade e Administração
 
-- Proteção de dados e compliance  
-- Backup e recuperação  
-- Gerenciamento de usuários e licenças  
-- MFA – Autenticação Multifator  
-- Políticas de segurança  
+A segurança, privacidade e administração são pilares fundamentais no Microsoft 365, garantindo proteção de dados, conformidade com normas e gestão eficiente dos recursos da organização.
+
+**Proteção de dados e compliance**  
+O Microsoft 365 oferece recursos avançados para proteger informações sensíveis e atender a requisitos legais e regulatórios (LGPD, GDPR, etc.).
+
+- Ferramentas de prevenção contra perda de dados (DLP) para evitar vazamento de informações.
+- Criptografia de dados em trânsito e em repouso.
+- Auditoria e logs de atividades para rastreamento e conformidade.
+- Políticas de retenção e classificação de dados.
+
+**Backup e recuperação**  
+
+- O Microsoft 365 mantém versões anteriores de arquivos no OneDrive e SharePoint, permitindo restaurar documentos em caso de exclusão ou alteração acidental.
+- Recursos de recuperação de caixa de e-mail e itens excluídos no Outlook.
+- Para necessidades avançadas, considere soluções de backup de terceiros integradas ao Microsoft 365.
+
+**Gerenciamento de usuários e licenças**  
+
+- O portal de administração permite criar, editar e remover usuários, além de atribuir licenças conforme a necessidade.
+- Grupos de segurança e funções administrativas facilitam a delegação de permissões.
+- Relatórios de uso e auditoria ajudam a monitorar o ambiente e otimizar recursos.
+
+**MFA – Autenticação Multifator**  
+
+- A autenticação multifator (MFA) adiciona uma camada extra de segurança, exigindo uma segunda forma de verificação além da senha.
+- Pode ser ativada para todos os usuários ou grupos específicos, reduzindo riscos de acesso não autorizado.
+- Suporta aplicativos autenticadores, SMS, chamadas telefônicas e notificações push.
+
+**Políticas de segurança**  
+
+- Defina políticas de senha forte, bloqueio de conta e acesso condicional.
+- Utilize o Microsoft Defender para Office 365 para proteção contra ameaças, phishing e malware.
+- Implemente políticas de acesso condicional para controlar o acesso com base em localização, dispositivo ou risco detectado.
+
+> **Dica:**  
+> Revise periodicamente as configurações de segurança e políticas de compliance para garantir que sua organização esteja protegida e em conformidade com as melhores práticas do mercado.
 
 ***
 
@@ -339,10 +372,35 @@ Adotar essas práticas contribui para um ambiente digital mais produtivo, colabo
 
 ## 5. Novidades e Atualizações
 
-- Resumo das atualizações mais recentes  
-- Funcionalidades novas relevantes  
-- Mudanças na interface ou nas políticas  
-- Links para roadmap e changelog oficial  
+Nesta seção, acompanhe as principais novidades e mudanças recentes no Microsoft 365, garantindo que você e sua equipe estejam sempre atualizados com os recursos mais modernos da plataforma.
+
+**Resumo das atualizações mais recentes**  
+O Microsoft 365 recebe atualizações constantes, trazendo melhorias de desempenho, segurança e novas funcionalidades para os aplicativos e serviços. Entre as novidades recentes, destacam-se:
+
+- Integração aprimorada entre Teams, Outlook e OneDrive.
+- Novos recursos de colaboração em tempo real nos aplicativos do Office Online.
+- Melhorias em segurança, autenticação multifator e proteção contra ameaças.
+
+**Funcionalidades novas relevantes**  
+
+- Transcrição automática e legendas em tempo real nas reuniões do Teams.
+- Novos templates e automações no Power Automate.
+- Recursos de coautoria e comentários aprimorados no Word, Excel e PowerPoint Online.
+- Dashboards interativos e conectores expandidos no Power BI.
+
+**Mudanças na interface ou nas políticas**  
+
+- Interface do Teams redesenhada para facilitar a navegação e o acesso rápido a chats, arquivos e reuniões.
+- Atualizações nas políticas de privacidade e compliance, alinhadas à LGPD e GDPR.
+- Novos controles de administração para gerenciamento de dispositivos e permissões.
+
+**Links para roadmap e changelog oficial**  
+
+- [Microsoft 365 Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap): Acompanhe as próximas funcionalidades e lançamentos planejados.
+- [Microsoft 365 Changelog](https://learn.microsoft.com/en-us/microsoft-365/roadmap?view=o365-worldwide): Veja o histórico detalhado de atualizações e melhorias.
+
+> **Dica:**  
+> Consulte regularmente o roadmap e o changelog oficial para planejar treinamentos, adoção de novos recursos e garantir que sua organização aproveite ao máximo as inovações do Microsoft 365.
 
 ***
 
