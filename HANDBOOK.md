@@ -5,9 +5,9 @@
 **Cara Core Informática**  
 **Versão:** v1.0 – 20 de Junho 2025  
 **Autor:** Christian Vladimir Uhdre Mulato  
-**E-mail:** suporte (at) caracore (dot) com (dot) br
-**Whatsapp:** +55 41 99909-7797
 
+- **E-mail:** [suporte@caracore.com.br](mailto:suporte@caracore.com.br)
+- **Whatsapp:** [ +55 41 99909-7797](https://wa.me/5541999097797)
 - **Site:** [www.caracore.com.br](https://www.caracore.com.br)
 - **GitHub:** [github.com/chmulato/cara-core](https://github.com/chmulato/cara-core)
 - **Facebook:** [facebook.com/caracoreinformatica](https://www.facebook.com/caracoreinformatica/)
@@ -468,8 +468,8 @@ Sua opinião é muito importante para nós!
 
 Se tiver dúvidas, sugestões, feedbacks ou quiser compartilhar sua experiência com o Microsoft 365, entre em contato pelos canais abaixo:
 
-- **E-mail:** suporte (at) caracore (dot) com (dot) br  
-- **Whatsapp:** +55 41 99909-7797  
+- **E-mail:** [suporte@caracore.com.br](mailto:suporte@caracore.com.br)  
+- **Whatsapp:** [ +55 41 99909-7797](https://wa.me/5541999097797)  
 - **Site:** [www.caracore.com.br](https://www.caracore.com.br)
 
 Estamos à disposição para ajudar você a aproveitar ao máximo o Microsoft 365!
