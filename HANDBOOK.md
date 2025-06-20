@@ -70,7 +70,7 @@ O conteúdo é destinado a profissionais, empresas e usuários que utilizam ou p
 A estrutura modular permite que o conteúdo seja consultado conforme a necessidade, com atualizações semestrais para acompanhar as novidades da plataforma.  
 Para garantir acesso à versão mais recente, consulte sempre o site da Cara Core Informática.
 
-Em caso de dúvidas, sugestões ou suporte, entre em contato pelo e-mail: suporte (at) caracore (dot) com (dot) br, ou pelo Whatsapp: +55 41 99909-7797.
+Em caso de dúvidas, sugestões ou suporte, entre em contato pelo e-mail: [suporte@caracore.com.br], ou pelo Whatsapp: +55 41 99909-7797.
 
 ***
 [Voltar ao Sumário](#sumário)
