@@ -1,6 +1,6 @@
 # Apostila Microsoft 365
 
-![Capa da Apostila](COVER.png)
+![Capa da Apostila](images/COVER.png)
 
 **Cara Core Informática**  
 **Versão:** v1.0 – 20 de Junho 2025  
@@ -9,8 +9,8 @@
 **Whatsapp:** +55 41 99909-7797
 
 **Site:** [www.caracore.com.br](https://www.caracore.com.br)
-**GitHub:** [github.com/cara-core](https://github.com/cara-core)
-**Facebook:** [facebook.com/cara.core](https://www.facebook.com/cara.core)
+**GitHub:** [github.com/chmulato/cara-core](https://github.com/chmulato/cara-core)
+**Facebook:** [facebook.com/caracoreinformatica](https://www.facebook.com/caracoreinformatica/)
 **LinkedIn:** [linkedin.com/company/cara-core](https://www.linkedin.com/company/cara-core)
 
 ***
@@ -146,6 +146,8 @@ O Outlook Online recebe atualizações frequentes, incluindo melhorias na integr
 ### 3.2 OneDrive
 
 O OneDrive é o serviço de armazenamento em nuvem do Microsoft 365, projetado para guardar, acessar e compartilhar arquivos de forma segura e prática, tanto no ambiente profissional quanto pessoal. Com ele, seus documentos, fotos e outros arquivos ficam disponíveis em qualquer dispositivo conectado à internet.
+
+![OneDrive](images/ONEDRIVE.png)
 
 **Principais Recursos:**
 
