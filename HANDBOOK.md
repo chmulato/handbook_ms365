@@ -7,8 +7,10 @@
 **Autor:** Christian Vladimir Uhdre Mulato  
 **E-mail:** suporte (at) caracore (dot) com (dot) br
 **Whatsapp:** +55 41 99909-7797
+
 **Site:** [www.caracore.com.br](https://www.caracore.com.br)
 **GitHub:** [github.com/cara-core](https://github.com/cara-core)
+**Facebook:** [facebook.com/cara.core](https://www.facebook.com/cara.core)
 **LinkedIn:** [linkedin.com/company/cara-core](https://www.linkedin.com/company/cara-core)
 
 ***
@@ -313,7 +315,7 @@ O Power BI é a ferramenta de análise e visualização de dados da Microsoft, p
 
 A segurança, privacidade e administração são pilares fundamentais no Microsoft 365, garantindo proteção de dados, conformidade com normas e gestão eficiente dos recursos da organização.
 
-**Proteção de dados e compliance**  
+**Proteção de dados e compliance**
 O Microsoft 365 oferece recursos avançados para proteger informações sensíveis e atender a requisitos legais e regulatórios (LGPD, GDPR, etc.).
 
 - Ferramentas de prevenção contra perda de dados (DLP) para evitar vazamento de informações.
@@ -445,16 +447,12 @@ Acompanhe as atualizações semestrais para se manter informado sobre as novidad
 ## Fale Conosco
 
 Sua opinião é muito importante para nós!  
+
 Se tiver dúvidas, sugestões, feedbacks ou quiser compartilhar sua experiência com o Microsoft 365, entre em contato pelos canais abaixo:
 
 - **E-mail:** suporte (at) caracore (dot) com (dot) br  
 - **Whatsapp:** +55 41 99909-7797  
 - **Site:** [www.caracore.com.br](https://www.caracore.com.br)
-
-Acompanhe também nossas novidades e conteúdos nas redes sociais:  
-
-- [GitHub](https://github.com/cara-core)  
-- [LinkedIn](https://www.linkedin.com/company/cara-core)
 
 Estamos à disposição para ajudar você a aproveitar ao máximo o Microsoft 365!
 
