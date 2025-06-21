@@ -6,36 +6,11 @@
 **Versão:** v1.0 – 20 de Junho 2025  
 **Autor:** Christian Vladimir Uhdre Mulato  
 
-- **E-mail:** [suporte@caracore.com.br](mailto:suporte@caracore.com.br)
-- **Whatsapp:** [+55 41 99909-7797](https://wa.me/5541999097797)
-- **Site:** [www.caracore.com.br](https://www.caracore.com.br)
-- **GitHub:** [github.com/chmulato/cara-core](https://github.com/chmulato/cara-core)
-- **Facebook:** [facebook.com/caracoreinformatica](https://www.facebook.com/caracoreinformatica/)
-- **LinkedIn:** [linkedin.com/company/cara-core](https://www.linkedin.com/company/cara-core)
-
-***
-
-## Controle de Versões (ROADMAP)
-
-```markdown
-|--------|------------|---------------------------------------------------------|
-| Versão | Data       | Descrição das Alterações                                |
-|--------|------------|---------------------------------------------------------|
-| 1.0    | 20/06/2025 | Criação inicial                                         |
-| 1.1    | 20/12/2025 | Revisão semestral: atualização de conteúdo e links      |
-| 1.2    | 20/06/2026 | Inclusão de novos módulos e revisão geral               |
-| 1.3    | 20/12/2026 | Atualização de práticas recomendadas e recursos novos   |
-| 1.4    | 20/06/2027 | Revisão de segurança, privacidade e anexos              |
-| 1.5    | 20/12/2027 | Atualização de imagens, exemplos e roadmap              |
-|--------|------------|---------------------------------------------------------|
-```
-
 ***
 
 ## Sumário
 
 - [Apostila Microsoft 365](#apostila-microsoft-365)
-  - [Controle de Versões (ROADMAP)](#controle-de-versões-roadmap)
   - [Sumário](#sumário)
   - [1. Apresentação](#1-apresentação)
   - [2. Introdução ao Microsoft 365](#2-introdução-ao-microsoft-365)
@@ -56,6 +31,9 @@
   - [Conclusão](#conclusão)
   - [Fale Conosco](#fale-conosco)
   - [Agradecimentos](#agradecimentos)
+  - [Controle de Versões (ROADMAP)](#controle-de-versões-roadmap)
+  - [Direitos Autorais e Isenção de Responsabilidade](#direitos-autorais-e-isenção-de-responsabilidade)
+
 
 ***
 
@@ -468,11 +446,15 @@ Sua opinião é muito importante para nós!
 
 Se tiver dúvidas, sugestões, feedbacks ou quiser compartilhar sua experiência com o Microsoft 365, entre em contato pelos canais abaixo:
 
-- **E-mail:** [suporte@caracore.com.br](mailto:suporte@caracore.com.br)  
-- **Whatsapp:** [ +55 41 99909-7797](https://wa.me/5541999097797)  
+- **E-mail:** [suporte@caracore.com.br](mailto:suporte@caracore.com.br)
+- **Whatsapp:** [+55 41 99909-7797](https://wa.me/5541999097797)
 - **Site:** [www.caracore.com.br](https://www.caracore.com.br)
+- **GitHub:** [github.com/chmulato/cara-core](https://github.com/chmulato/cara-core)
+- **Facebook:** [facebook.com/caracoreinformatica](https://www.facebook.com/caracoreinformatica/)
+- **LinkedIn:** [linkedin.com/company/cara-core](https://www.linkedin.com/company/cara-core)
 
-Estamos à disposição para ajudar você a aproveitar ao máximo o Microsoft 365!
+Agradecemos por escolher a Cara Core Informática como sua parceira no aprendizado e uso do Microsoft 365.
+Estamos à disposição para ajudar você.
 
 ***
 [Voltar ao Sumário](#sumário)
@@ -482,6 +464,30 @@ Estamos à disposição para ajudar você a aproveitar ao máximo o Microsoft 36
 Agradecemos a todos os colaboradores e usuários que contribuíram para a criação desta apostila. Sua participação é fundamental para aprimorarmos continuamente nossos materiais e serviços.
 
 ***
+[Voltar ao Sumário](#sumário)
+
+## Controle de Versões (ROADMAP)
+
+```markdown
+|--------|------------|---------------------------------------------------------|
+| Versão | Data       | Descrição das Alterações                                |
+|--------|------------|---------------------------------------------------------|
+| 1.0    | 20/06/2025 | Criação inicial                                         |
+| 1.1    | 20/12/2025 | Revisão semestral: atualização de conteúdo e links      |
+| 1.2    | 20/06/2026 | Inclusão de novos módulos e revisão geral               |
+| 1.3    | 20/12/2026 | Atualização de práticas recomendadas e recursos novos   |
+| 1.4    | 20/06/2027 | Revisão de segurança, privacidade e anexos              |
+| 1.5    | 20/12/2027 | Atualização de imagens, exemplos e roadmap              |
+|--------|------------|---------------------------------------------------------|
+```
+
+***
+[Voltar ao Sumário](#sumário)
+
+## Direitos Autorais e Isenção de Responsabilidade
+
+Esta apostila é de propriedade da Cara Core Informática e está protegida por direitos autorais.
+A reprodução, distribuição ou modificação deste material sem autorização prévia é proibida.
 
 > **Nota:**  
 > Esta apostila é um material educativo e de apoio ao usuário. A Cara Core Informática não possui vínculo comercial com a Microsoft, nem representa oficialmente a marca ou seus produtos. Todas as marcas, nomes e logotipos Microsoft 365 mencionados pertencem à Microsoft Corporation. Nosso papel é exclusivamente prestar suporte, treinamento e orientação para o melhor uso das soluções Microsoft por nossos clientes e parceiros.
