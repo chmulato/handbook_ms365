@@ -1,3 +1,7 @@
+![Capa do Manual de Serviços Microsoft 365](images/CAPA_MANUAL.png)
+
+***
+
 # Manual de Atendimento e Execução dos Pacotes de Serviços – Cara Core Informática
 
 ## Sumário
@@ -85,7 +89,15 @@
 
 Este manual tem como objetivo fornecer diretrizes claras e práticas para a execução dos pacotes de serviços oferecidos pela Cara Core Informática, com foco na plataforma Microsoft 365. Destinado a técnicos, consultores e parceiros, o documento orienta sobre as melhores práticas de atendimento, implantação e suporte, garantindo uma experiência de qualidade para os clientes.
 
+***
+
 ## Pacotes de Serviços Microsoft 365
+
+A Cara Core Informática oferece uma linha completa de pacotes de serviços especializados em Microsoft 365, desenvolvidos para atender empresas de todos os portes e segmentos. Cada pacote foi estruturado para proporcionar máxima produtividade, segurança, eficiência operacional e governança digital, de acordo com as necessidades específicas de cada cliente.
+
+A seguir, apresentamos um resumo dos principais pacotes, suas características e benefícios, para que sua empresa possa escolher a solução mais adequada e alcançar resultados superiores com o Microsoft 365.
+
+***
 
 ### Pacote START 365 – Configuração e Implantação Inicial
 
@@ -179,10 +191,14 @@ Combine diferentes pacotes para criar um projeto sob medida, alinhado às necess
 
 ## Anexos
 
-- **Links úteis:** Documentação oficial da Microsoft, blogs e comunidades.
-- **Ferramentas recomendadas:** PowerShell, Azure AD Connect, ferramentas de backup.
-- **Referências técnicas da Microsoft:** Guias de implementação, melhores práticas e whitepapers.
-- **Modelos e templates:** Disponíveis para download, incluindo checklists, termos de aceite e políticas de uso.
+- **Links úteis:**  
+ Lista de links para documentação oficial da Microsoft, tutoriais, fóruns de suporte e comunidades técnicas relevantes para Microsoft 365.
+- **Ferramentas recomendadas:**  
+ Relação de softwares e utilitários indicados para administração, automação, backup e monitoramento do ambiente Microsoft 365 (ex: PowerShell, Azure AD Connect, Veeam, Acronis).
+- **Referências técnicas da Microsoft:**  
+ Guias, whitepapers, artigos e melhores práticas publicados pela Microsoft para implantação, segurança e governança do Microsoft 365.
+- **Modelos e templates:**  
+ Arquivos editáveis e exemplos de checklists, termos de aceite, políticas internas, roteiros de treinamento, templates de relatórios e diagnósticos, disponíveis para download e adaptação conforme a necessidade do cliente.
 
 ## Contato
 
